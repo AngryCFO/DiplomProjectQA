@@ -71,11 +71,11 @@
 <br>
 
 ## 4. Тестовая документация на проекте
-- [План]([Plan.md#план-тестирования-приложения-мобильный-хоспис](https://github.com/AngryCFO/DiplomProjectQA/blob/main/documentation/Plan.md) по проверке и автоматизации приложения (`Plan.md`)
+- [План](https://github.com/AngryCFO/DiplomProjectQA/blob/main/documentation/Plan.md) по проверке и автоматизации приложения (`Plan.md`)
 
-- [Чек-лист]([Чек-лист_ДипломQA.xlsx](https://docs.google.com/spreadsheets/d/1fixkuUc1HL-9UGBTSnLohiU53TA2FEfQtqdYT4w-u2I/edit?gid=0#gid=0) c отметками о пройденных и не пройденных тестах (`Чек-лист_ДипломQA.xlsx`)
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1fixkuUc1HL-9UGBTSnLohiU53TA2FEfQtqdYT4w-u2I/edit?gid=0#gid=0) c отметками о пройденных и не пройденных тестах (`Чек-лист_ДипломQA.xlsx`)
 
-- [Тест-кейсы]([Тест-кейсы_ДипломQA.xlsx](https://docs.google.com/spreadsheets/d/1SZQpvwa5PksNxRopZcktfAXzVb4jnhh0Fl4UzhrBBLY/edit?gid=0#gid=0) для проверки приложения (`Тест-кейсы_ДипломQA.xlsx`)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1SZQpvwa5PksNxRopZcktfAXzVb4jnhh0Fl4UzhrBBLY/edit?gid=0#gid=0) для проверки приложения (`Тест-кейсы_ДипломQA.xlsx`)
 
 - [Баг-репорты](https://github.com/AngryCFO/DiplomProjectQA/issues) оформленные как (`Issues`)
 
