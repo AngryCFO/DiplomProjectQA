@@ -6,9 +6,9 @@
 
 - [План](documentation/Plan.md) по проверке и автоматизации приложения (`documentation/Plan.md`).
 
-- [Чек-лист](https://docs.google.com/spreadsheets/d/1fixkuUc1HL-9UGBTSnLohiU53TA2FEfQtqdYT4w-u2I/edit?usp=sharing) c отметками о пройденных и не пройденных тестах (`documentation/Check.xlsx`).
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1fixkuUc1HL-9UGBTSnLohiU53TA2FEfQtqdYT4w-u2I/edit?usp=sharing) c отметками о пройденных и не пройденных тестах (`documentation/Чек-лист_ДипломQA.xlsx`).
 
-- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1SZQpvwa5PksNxRopZcktfAXzVb4jnhh0Fl4UzhrBBLY/edit?usp=sharing) для проверки приложения (`documentation/Cases.xlsx`).
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1SZQpvwa5PksNxRopZcktfAXzVb4jnhh0Fl4UzhrBBLY/edit?usp=sharing) для проверки приложения (`documentation/Тест-кейсы_ДипломQA.xlsx`).
 
 - [Баг-репорты](https://github.com/AngryCFO/DiplomProjectQA/issues) оформленные как (`Issues`).
 
