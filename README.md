@@ -14,7 +14,7 @@
 
 - [allure-отчет](https://AngryCFO.github.io/DiplomProjectQA/documentation/allure-report) с результатами прогона авто-тестов, а так же запакованный в zip-архив (`documentation/allure-results.zip`).
 
-- [Отчет о тестировании](https://github.com/AngryCFO/DiplomProjectQA/documentation/Result.md) со сравнением ручного и автоматизированного тестирования, затраченного времени, найденные проблемы (`documentation/Result.md`).
+- [Отчет о тестировании](documentation/Result.md) со сравнением ручного и автоматизированного тестирования, затраченного времени, найденные проблемы (`documentation/Result.md`).
 
 <br>
 
