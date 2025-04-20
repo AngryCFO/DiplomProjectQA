@@ -4,7 +4,7 @@
 
 ## Тестовая документация
 
-- [План](https://github.com/AngryCFO/DiplomProjectQA/documentation/Plan.md) по проверке и автоматизации приложения (`documentation/Plan.md`).
+- [План](documentation/Plan.md) по проверке и автоматизации приложения (`documentation/Plan.md`).
 
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1fixkuUc1HL-9UGBTSnLohiU53TA2FEfQtqdYT4w-u2I/edit?usp=sharing) c отметками о пройденных и не пройденных тестах (`documentation/Check.xlsx`).
 
