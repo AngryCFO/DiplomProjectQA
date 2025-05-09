@@ -1,0 +1,37 @@
+{
+  "uid": "4b4757e66a1912dae1a509f688f20b0f",
+  "name": "categories",
+  "children": [
+    {
+      "name": "Test defects",
+      "children": [
+        {
+          "name": "No views in hierarchy found matching: view.getId() is <2131230735/ru.iteco.fmhandroid:id/about_back_image_button>\nIf the target view is not part of the view hierarchy, you may need to use Espresso.onData to load it from one of the following AdapterViews:android.widget.MenuPopupWindow$MenuDropDownListView{78c7b3e VFED.VC.. .F...... 0,0-515,378}\n\nView Hierarchy:\n...",
+          "children": [
+            {
+              "name": "Навигация к странице About с приветствующей страницы 'News'",
+              "uid": "87d4b19454a8326c",
+              "parentUid": "8b082102b533fd3b666d755cb74a5231",
+              "status": "broken",
+              "time": {
+                "start": 1746811446980,
+                "stop": 1746811460468,
+                "duration": 13488
+              },
+              "flaky": false,
+              "newFailed": false,
+              "newPassed": false,
+              "newBroken": false,
+              "retriesCount": 0,
+              "retriesStatusChange": false,
+              "parameters": [],
+              "tags": []
+            }
+          ],
+          "uid": "8b082102b533fd3b666d755cb74a5231"
+        }
+      ],
+      "uid": "bdbf199525818fae7a8651db9eafe741"
+    }
+  ]
+}
